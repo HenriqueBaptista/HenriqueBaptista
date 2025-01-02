@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning System Developing
 - 💞️ I’m looking to collaborate on a lot of projects, if possible.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to use my computer.
+- ⚡ Fun fact: I have a lot of prototypes.
 
 <!---
 HenriqueBaptista/HenriqueBaptista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
